@@ -29,6 +29,9 @@ namespace BarcodeGenerator
         string EventLine6 = "EVENT LINE 6";
         string DateTimeLine = "Day July 20, YYYY 6:00PM";
 
+        string Price_TAX = "$1,234.56";
+        string SectionRowSeat = "123 / 8 / 2";
+        string PriceCode = "Price Code";
         // parameters
         float barcodeSizeX = 2.125f;
         float barcodeSizeY = 0.4f;
