@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BarcodeGenerator.Form1.resources
+obj\Debug\BarcodeGenerator.Properties.Resources.resources
+obj\Debug\BarcodeGenerator.csproj.GenerateResource.Cache
+bin\Debug\BarcodeGenerator.exe
+bin\Debug\BarcodeGenerator.pdb
+obj\Debug\BarcodeGenerator.exe
+obj\Debug\BarcodeGenerator.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\BarcodeGenerator.Form1.resources
+obj\Release\BarcodeGenerator.Properties.Resources.resources
+obj\Release\BarcodeGenerator.csproj.GenerateResource.Cache
+bin\Release\BarcodeGenerator.exe
+bin\Release\BarcodeGenerator.pdb
+obj\Release\BarcodeGenerator.exe
+obj\Release\BarcodeGenerator.pdb
