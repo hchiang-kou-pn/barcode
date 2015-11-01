@@ -4,6 +4,8 @@ using System.Text;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 
+add one line for r2_index 01
+
 namespace BarcodeGenerator
 {
     public abstract class BarcodeSymbology
