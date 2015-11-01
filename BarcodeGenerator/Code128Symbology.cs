@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+add one line for r2_contact 01
+
 namespace BarcodeGenerator
 {
     public class Code128Symbology : BarcodeSymbology
