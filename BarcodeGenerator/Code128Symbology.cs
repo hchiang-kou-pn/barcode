@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
+add one one for r2_index 02
 using System.Text;
+
 
 namespace BarcodeGenerator
 {
